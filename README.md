@@ -1,2 +1,2 @@
 # entrance
-Exam for HumbleBee 
+Exam for HumbleBeeAI Academy
